@@ -1,6 +1,6 @@
 **Beep-boop!**
 
-I'm an aspiring web developer.
+I'm an aspiring developer.
 
 *I learn and know:*
 <p align="left">
